@@ -2,6 +2,8 @@
 
 [Trade now with lowest fees!](https://gngm.ai "GMGN.AI")
 
+[![GMGN.AI Logo](gmgn.png)](https://gngm.ai)
+
 ## Overview
 GMGN.AI is a specialized trading bot focusing on meme token markets across multiple blockchain networks including Ethereum, Solana, and Blast. The platform provides real-time trading signals through smart money tracking and sophisticated market analysis tools.
 
